@@ -1,3 +1,7 @@
 # AID1906-SHAO
  shaozhenhua 
-print"
+print“hello world”
+
+
+
+import  redis
